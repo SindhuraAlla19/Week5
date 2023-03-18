@@ -1,0 +1,4637 @@
+[
+  {
+    "estimate": 0.3,
+    "decade": 1950.0,
+    "stub_label": "10-14 years"
+  },
+  {
+    "estimate": 2.7000000000000006,
+    "decade": 1950.0,
+    "stub_label": "15-19 years"
+  },
+  {
+    "estimate": 4.5,
+    "decade": 1950.0,
+    "stub_label": "15-24 years"
+  },
+  {
+    "estimate": 6.2,
+    "decade": 1950.0,
+    "stub_label": "20-24 years"
+  },
+  {
+    "estimate": 9.1,
+    "decade": 1950.0,
+    "stub_label": "25-34 years"
+  },
+  {
+    "estimate": 11.6,
+    "decade": 1950.0,
+    "stub_label": "25-44 years"
+  },
+  {
+    "estimate": 14.300000000000002,
+    "decade": 1950.0,
+    "stub_label": "35-44 years"
+  },
+  {
+    "estimate": 20.9,
+    "decade": 1950.0,
+    "stub_label": "45-54 years"
+  },
+  {
+    "estimate": 23.5,
+    "decade": 1950.0,
+    "stub_label": "45-64 years"
+  },
+  {
+    "estimate": 26.8,
+    "decade": 1950.0,
+    "stub_label": "55-64 years"
+  },
+  {
+    "estimate": 30.0,
+    "decade": 1950.0,
+    "stub_label": "65 years and over"
+  },
+  {
+    "estimate": 29.600000000000005,
+    "decade": 1950.0,
+    "stub_label": "65-74 years"
+  },
+  {
+    "estimate": 31.100000000000005,
+    "decade": 1950.0,
+    "stub_label": "75-84 years"
+  },
+  {
+    "estimate": 28.8,
+    "decade": 1950.0,
+    "stub_label": "85 years and over"
+  },
+  {
+    "estimate": 12.299999999999999,
+    "decade": 1950.0,
+    "stub_label": "All persons"
+  },
+  {
+    "estimate": 5.349999999999999,
+    "decade": 1950.0,
+    "stub_label": "Female"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: 10-14 years"
+  },
+  {
+    "estimate": 1.8,
+    "decade": 1950.0,
+    "stub_label": "Female: 15-19 years"
+  },
+  {
+    "estimate": 2.6,
+    "decade": 1950.0,
+    "stub_label": "Female: 15-24 years"
+  },
+  {
+    "estimate": 3.2999999999999994,
+    "decade": 1950.0,
+    "stub_label": "Female: 20-24 years"
+  },
+  {
+    "estimate": 4.9,
+    "decade": 1950.0,
+    "stub_label": "Female: 25-34 years"
+  },
+  {
+    "estimate": 6.2,
+    "decade": 1950.0,
+    "stub_label": "Female: 25-44 years"
+  },
+  {
+    "estimate": 7.5,
+    "decade": 1950.0,
+    "stub_label": "Female: 35-44 years"
+  },
+  {
+    "estimate": 9.9,
+    "decade": 1950.0,
+    "stub_label": "Female: 45-54 years"
+  },
+  {
+    "estimate": 9.9,
+    "decade": 1950.0,
+    "stub_label": "Female: 45-64 years"
+  },
+  {
+    "estimate": 9.9,
+    "decade": 1950.0,
+    "stub_label": "Female: 55-64 years"
+  },
+  {
+    "estimate": 9.4,
+    "decade": 1950.0,
+    "stub_label": "Female: 65 years and over"
+  },
+  {
+    "estimate": 10.1,
+    "decade": 1950.0,
+    "stub_label": "Female: 65-74 years"
+  },
+  {
+    "estimate": 8.1,
+    "decade": 1950.0,
+    "stub_label": "Female: 75-84 years"
+  },
+  {
+    "estimate": 8.2,
+    "decade": 1950.0,
+    "stub_label": "Female: 85 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: American Indian or Alaska Native"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: American Indian or Alaska Native: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: American Indian or Alaska Native: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: American Indian or Alaska Native: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: American Indian or Alaska Native: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: Asian or Pacific Islander"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: Asian or Pacific Islander: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: Asian or Pacific Islander: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: Asian or Pacific Islander: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: Asian or Pacific Islander: 65 years and over"
+  },
+  {
+    "estimate": 1.6500000000000001,
+    "decade": 1950.0,
+    "stub_label": "Female: Black or African American"
+  },
+  {
+    "estimate": 1.8,
+    "decade": 1950.0,
+    "stub_label": "Female: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": 2.3,
+    "decade": 1950.0,
+    "stub_label": "Female: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": 2.7000000000000006,
+    "decade": 1950.0,
+    "stub_label": "Female: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: Hispanic or Latino: All races"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: Not Hispanic or Latino: White"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 65 years and over"
+  },
+  {
+    "estimate": 5.75,
+    "decade": 1950.0,
+    "stub_label": "Female: White"
+  },
+  {
+    "estimate": 2.7000000000000006,
+    "decade": 1950.0,
+    "stub_label": "Female: White: 15-24 years"
+  },
+  {
+    "estimate": 6.599999999999999,
+    "decade": 1950.0,
+    "stub_label": "Female: White: 25-44 years"
+  },
+  {
+    "estimate": 10.6,
+    "decade": 1950.0,
+    "stub_label": "Female: White: 45-64 years"
+  },
+  {
+    "estimate": 9.9,
+    "decade": 1950.0,
+    "stub_label": "Female: White: 65 years and over"
+  },
+  {
+    "estimate": 19.5,
+    "decade": 1950.0,
+    "stub_label": "Male"
+  },
+  {
+    "estimate": 0.5,
+    "decade": 1950.0,
+    "stub_label": "Male: 10-14 years"
+  },
+  {
+    "estimate": 3.5,
+    "decade": 1950.0,
+    "stub_label": "Male: 15-19 years"
+  },
+  {
+    "estimate": 6.5,
+    "decade": 1950.0,
+    "stub_label": "Male: 15-24 years"
+  },
+  {
+    "estimate": 9.3,
+    "decade": 1950.0,
+    "stub_label": "Male: 20-24 years"
+  },
+  {
+    "estimate": 13.4,
+    "decade": 1950.0,
+    "stub_label": "Male: 25-34 years"
+  },
+  {
+    "estimate": 17.2,
+    "decade": 1950.0,
+    "stub_label": "Male: 25-44 years"
+  },
+  {
+    "estimate": 21.3,
+    "decade": 1950.0,
+    "stub_label": "Male: 35-44 years"
+  },
+  {
+    "estimate": 32.0,
+    "decade": 1950.0,
+    "stub_label": "Male: 45-54 years"
+  },
+  {
+    "estimate": 37.1,
+    "decade": 1950.0,
+    "stub_label": "Male: 45-64 years"
+  },
+  {
+    "estimate": 43.6,
+    "decade": 1950.0,
+    "stub_label": "Male: 55-64 years"
+  },
+  {
+    "estimate": 52.79999999999999,
+    "decade": 1950.0,
+    "stub_label": "Male: 65 years and over"
+  },
+  {
+    "estimate": 50.5,
+    "decade": 1950.0,
+    "stub_label": "Male: 65-74 years"
+  },
+  {
+    "estimate": 58.29999999999999,
+    "decade": 1950.0,
+    "stub_label": "Male: 75-84 years"
+  },
+  {
+    "estimate": 58.29999999999999,
+    "decade": 1950.0,
+    "stub_label": "Male: 85 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: American Indian or Alaska Native"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: American Indian or Alaska Native: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: American Indian or Alaska Native: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: American Indian or Alaska Native: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: American Indian or Alaska Native: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: Asian or Pacific Islander"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: Asian or Pacific Islander: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: Asian or Pacific Islander: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: Asian or Pacific Islander: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: Asian or Pacific Islander: 65 years and over"
+  },
+  {
+    "estimate": 6.8999999999999995,
+    "decade": 1950.0,
+    "stub_label": "Male: Black or African American"
+  },
+  {
+    "estimate": 4.9,
+    "decade": 1950.0,
+    "stub_label": "Male: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": 9.8,
+    "decade": 1950.0,
+    "stub_label": "Male: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": 12.699999999999998,
+    "decade": 1950.0,
+    "stub_label": "Male: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": 9.0,
+    "decade": 1950.0,
+    "stub_label": "Male: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": 10.0,
+    "decade": 1950.0,
+    "stub_label": "Male: Black or African American: 65-74 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: Black or African American: 75-84 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: Black or African American: 85 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: Hispanic or Latino: All races"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: Not Hispanic or Latino: White"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1950.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 65 years and over"
+  },
+  {
+    "estimate": 20.650000000000002,
+    "decade": 1950.0,
+    "stub_label": "Male: White"
+  },
+  {
+    "estimate": 6.599999999999999,
+    "decade": 1950.0,
+    "stub_label": "Male: White: 15-24 years"
+  },
+  {
+    "estimate": 17.9,
+    "decade": 1950.0,
+    "stub_label": "Male: White: 25-44 years"
+  },
+  {
+    "estimate": 39.3,
+    "decade": 1950.0,
+    "stub_label": "Male: White: 45-64 years"
+  },
+  {
+    "estimate": 55.79999999999999,
+    "decade": 1950.0,
+    "stub_label": "Male: White: 65 years and over"
+  },
+  {
+    "estimate": 53.20000000000001,
+    "decade": 1950.0,
+    "stub_label": "Male: White: 65-74 years"
+  },
+  {
+    "estimate": 61.9,
+    "decade": 1950.0,
+    "stub_label": "Male: White: 75-84 years"
+  },
+  {
+    "estimate": 61.9,
+    "decade": 1950.0,
+    "stub_label": "Male: White: 85 years and over"
+  },
+  {
+    "estimate": 0.5,
+    "decade": 1960.0,
+    "stub_label": "10-14 years"
+  },
+  {
+    "estimate": 3.6,
+    "decade": 1960.0,
+    "stub_label": "15-19 years"
+  },
+  {
+    "estimate": 5.2,
+    "decade": 1960.0,
+    "stub_label": "15-24 years"
+  },
+  {
+    "estimate": 7.099999999999999,
+    "decade": 1960.0,
+    "stub_label": "20-24 years"
+  },
+  {
+    "estimate": 10.0,
+    "decade": 1960.0,
+    "stub_label": "25-34 years"
+  },
+  {
+    "estimate": 12.199999999999998,
+    "decade": 1960.0,
+    "stub_label": "25-44 years"
+  },
+  {
+    "estimate": 14.199999999999998,
+    "decade": 1960.0,
+    "stub_label": "35-44 years"
+  },
+  {
+    "estimate": 20.7,
+    "decade": 1960.0,
+    "stub_label": "45-54 years"
+  },
+  {
+    "estimate": 22.0,
+    "decade": 1960.0,
+    "stub_label": "45-64 years"
+  },
+  {
+    "estimate": 23.7,
+    "decade": 1960.0,
+    "stub_label": "55-64 years"
+  },
+  {
+    "estimate": 24.5,
+    "decade": 1960.0,
+    "stub_label": "65 years and over"
+  },
+  {
+    "estimate": 23.0,
+    "decade": 1960.0,
+    "stub_label": "65-74 years"
+  },
+  {
+    "estimate": 27.899999999999995,
+    "decade": 1960.0,
+    "stub_label": "75-84 years"
+  },
+  {
+    "estimate": 26.0,
+    "decade": 1960.0,
+    "stub_label": "85 years and over"
+  },
+  {
+    "estimate": 11.549999999999999,
+    "decade": 1960.0,
+    "stub_label": "All persons"
+  },
+  {
+    "estimate": 5.25,
+    "decade": 1960.0,
+    "stub_label": "Female"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: 10-14 years"
+  },
+  {
+    "estimate": 1.6000000000000003,
+    "decade": 1960.0,
+    "stub_label": "Female: 15-19 years"
+  },
+  {
+    "estimate": 2.2,
+    "decade": 1960.0,
+    "stub_label": "Female: 15-24 years"
+  },
+  {
+    "estimate": 2.9,
+    "decade": 1960.0,
+    "stub_label": "Female: 20-24 years"
+  },
+  {
+    "estimate": 5.5,
+    "decade": 1960.0,
+    "stub_label": "Female: 25-34 years"
+  },
+  {
+    "estimate": 6.599999999999999,
+    "decade": 1960.0,
+    "stub_label": "Female: 25-44 years"
+  },
+  {
+    "estimate": 7.7,
+    "decade": 1960.0,
+    "stub_label": "Female: 35-44 years"
+  },
+  {
+    "estimate": 10.2,
+    "decade": 1960.0,
+    "stub_label": "Female: 45-54 years"
+  },
+  {
+    "estimate": 10.2,
+    "decade": 1960.0,
+    "stub_label": "Female: 45-64 years"
+  },
+  {
+    "estimate": 10.2,
+    "decade": 1960.0,
+    "stub_label": "Female: 55-64 years"
+  },
+  {
+    "estimate": 8.4,
+    "decade": 1960.0,
+    "stub_label": "Female: 65 years and over"
+  },
+  {
+    "estimate": 8.4,
+    "decade": 1960.0,
+    "stub_label": "Female: 65-74 years"
+  },
+  {
+    "estimate": 8.9,
+    "decade": 1960.0,
+    "stub_label": "Female: 75-84 years"
+  },
+  {
+    "estimate": 6.0,
+    "decade": 1960.0,
+    "stub_label": "Female: 85 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: American Indian or Alaska Native"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: American Indian or Alaska Native: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: American Indian or Alaska Native: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: American Indian or Alaska Native: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: American Indian or Alaska Native: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: Asian or Pacific Islander"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: Asian or Pacific Islander: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: Asian or Pacific Islander: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: Asian or Pacific Islander: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: Asian or Pacific Islander: 65 years and over"
+  },
+  {
+    "estimate": 1.8,
+    "decade": 1960.0,
+    "stub_label": "Female: Black or African American"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": 3.0,
+    "decade": 1960.0,
+    "stub_label": "Female: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": 3.1,
+    "decade": 1960.0,
+    "stub_label": "Female: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: Hispanic or Latino: All races"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: Not Hispanic or Latino: White"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 65 years and over"
+  },
+  {
+    "estimate": 5.6000000000000005,
+    "decade": 1960.0,
+    "stub_label": "Female: White"
+  },
+  {
+    "estimate": 2.3,
+    "decade": 1960.0,
+    "stub_label": "Female: White: 15-24 years"
+  },
+  {
+    "estimate": 7.0,
+    "decade": 1960.0,
+    "stub_label": "Female: White: 25-44 years"
+  },
+  {
+    "estimate": 10.9,
+    "decade": 1960.0,
+    "stub_label": "Female: White: 45-64 years"
+  },
+  {
+    "estimate": 8.8,
+    "decade": 1960.0,
+    "stub_label": "Female: White: 65 years and over"
+  },
+  {
+    "estimate": 18.25,
+    "decade": 1960.0,
+    "stub_label": "Male"
+  },
+  {
+    "estimate": 0.9,
+    "decade": 1960.0,
+    "stub_label": "Male: 10-14 years"
+  },
+  {
+    "estimate": 5.599999999999999,
+    "decade": 1960.0,
+    "stub_label": "Male: 15-19 years"
+  },
+  {
+    "estimate": 8.2,
+    "decade": 1960.0,
+    "stub_label": "Male: 15-24 years"
+  },
+  {
+    "estimate": 11.5,
+    "decade": 1960.0,
+    "stub_label": "Male: 20-24 years"
+  },
+  {
+    "estimate": 14.699999999999998,
+    "decade": 1960.0,
+    "stub_label": "Male: 25-34 years"
+  },
+  {
+    "estimate": 17.9,
+    "decade": 1960.0,
+    "stub_label": "Male: 25-44 years"
+  },
+  {
+    "estimate": 21.0,
+    "decade": 1960.0,
+    "stub_label": "Male: 35-44 years"
+  },
+  {
+    "estimate": 31.600000000000005,
+    "decade": 1960.0,
+    "stub_label": "Male: 45-54 years"
+  },
+  {
+    "estimate": 34.4,
+    "decade": 1960.0,
+    "stub_label": "Male: 45-64 years"
+  },
+  {
+    "estimate": 38.1,
+    "decade": 1960.0,
+    "stub_label": "Male: 55-64 years"
+  },
+  {
+    "estimate": 44.0,
+    "decade": 1960.0,
+    "stub_label": "Male: 65 years and over"
+  },
+  {
+    "estimate": 39.6,
+    "decade": 1960.0,
+    "stub_label": "Male: 65-74 years"
+  },
+  {
+    "estimate": 52.5,
+    "decade": 1960.0,
+    "stub_label": "Male: 75-84 years"
+  },
+  {
+    "estimate": 57.4,
+    "decade": 1960.0,
+    "stub_label": "Male: 85 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: American Indian or Alaska Native"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: American Indian or Alaska Native: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: American Indian or Alaska Native: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: American Indian or Alaska Native: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: American Indian or Alaska Native: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: Asian or Pacific Islander"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: Asian or Pacific Islander: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: Asian or Pacific Islander: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: Asian or Pacific Islander: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: Asian or Pacific Islander: 65 years and over"
+  },
+  {
+    "estimate": 7.400000000000001,
+    "decade": 1960.0,
+    "stub_label": "Male: Black or African American"
+  },
+  {
+    "estimate": 4.1,
+    "decade": 1960.0,
+    "stub_label": "Male: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": 12.6,
+    "decade": 1960.0,
+    "stub_label": "Male: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": 13.0,
+    "decade": 1960.0,
+    "stub_label": "Male: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": 9.9,
+    "decade": 1960.0,
+    "stub_label": "Male: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": 11.300000000000002,
+    "decade": 1960.0,
+    "stub_label": "Male: Black or African American: 65-74 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: Black or African American: 75-84 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: Black or African American: 85 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: Hispanic or Latino: All races"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: Not Hispanic or Latino: White"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1960.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 65 years and over"
+  },
+  {
+    "estimate": 19.35,
+    "decade": 1960.0,
+    "stub_label": "Male: White"
+  },
+  {
+    "estimate": 8.6,
+    "decade": 1960.0,
+    "stub_label": "Male: White: 15-24 years"
+  },
+  {
+    "estimate": 18.5,
+    "decade": 1960.0,
+    "stub_label": "Male: White: 25-44 years"
+  },
+  {
+    "estimate": 36.5,
+    "decade": 1960.0,
+    "stub_label": "Male: White: 45-64 years"
+  },
+  {
+    "estimate": 46.70000000000001,
+    "decade": 1960.0,
+    "stub_label": "Male: White: 65 years and over"
+  },
+  {
+    "estimate": 42.0,
+    "decade": 1960.0,
+    "stub_label": "Male: White: 65-74 years"
+  },
+  {
+    "estimate": 55.70000000000001,
+    "decade": 1960.0,
+    "stub_label": "Male: White: 75-84 years"
+  },
+  {
+    "estimate": 61.29999999999999,
+    "decade": 1960.0,
+    "stub_label": "Male: White: 85 years and over"
+  },
+  {
+    "estimate": 0.6,
+    "decade": 1970.0,
+    "stub_label": "10-14 years"
+  },
+  {
+    "estimate": 5.900000000000001,
+    "decade": 1970.0,
+    "stub_label": "15-19 years"
+  },
+  {
+    "estimate": 8.8,
+    "decade": 1970.0,
+    "stub_label": "15-24 years"
+  },
+  {
+    "estimate": 12.199999999999998,
+    "decade": 1970.0,
+    "stub_label": "20-24 years"
+  },
+  {
+    "estimate": 14.1,
+    "decade": 1970.0,
+    "stub_label": "25-34 years"
+  },
+  {
+    "estimate": 15.4,
+    "decade": 1970.0,
+    "stub_label": "25-44 years"
+  },
+  {
+    "estimate": 16.9,
+    "decade": 1970.0,
+    "stub_label": "35-44 years"
+  },
+  {
+    "estimate": 20.0,
+    "decade": 1970.0,
+    "stub_label": "45-54 years"
+  },
+  {
+    "estimate": 20.6,
+    "decade": 1970.0,
+    "stub_label": "45-64 years"
+  },
+  {
+    "estimate": 21.399999999999995,
+    "decade": 1970.0,
+    "stub_label": "55-64 years"
+  },
+  {
+    "estimate": 20.8,
+    "decade": 1970.0,
+    "stub_label": "65 years and over"
+  },
+  {
+    "estimate": 20.8,
+    "decade": 1970.0,
+    "stub_label": "65-74 years"
+  },
+  {
+    "estimate": 21.2,
+    "decade": 1970.0,
+    "stub_label": "75-84 years"
+  },
+  {
+    "estimate": 19.0,
+    "decade": 1970.0,
+    "stub_label": "85 years and over"
+  },
+  {
+    "estimate": 12.35,
+    "decade": 1970.0,
+    "stub_label": "All persons"
+  },
+  {
+    "estimate": 7.0,
+    "decade": 1970.0,
+    "stub_label": "Female"
+  },
+  {
+    "estimate": 0.3,
+    "decade": 1970.0,
+    "stub_label": "Female: 10-14 years"
+  },
+  {
+    "estimate": 2.9,
+    "decade": 1970.0,
+    "stub_label": "Female: 15-19 years"
+  },
+  {
+    "estimate": 4.2,
+    "decade": 1970.0,
+    "stub_label": "Female: 15-24 years"
+  },
+  {
+    "estimate": 5.7,
+    "decade": 1970.0,
+    "stub_label": "Female: 20-24 years"
+  },
+  {
+    "estimate": 8.6,
+    "decade": 1970.0,
+    "stub_label": "Female: 25-34 years"
+  },
+  {
+    "estimate": 10.2,
+    "decade": 1970.0,
+    "stub_label": "Female: 25-44 years"
+  },
+  {
+    "estimate": 11.9,
+    "decade": 1970.0,
+    "stub_label": "Female: 35-44 years"
+  },
+  {
+    "estimate": 12.6,
+    "decade": 1970.0,
+    "stub_label": "Female: 45-54 years"
+  },
+  {
+    "estimate": 12.0,
+    "decade": 1970.0,
+    "stub_label": "Female: 45-64 years"
+  },
+  {
+    "estimate": 11.4,
+    "decade": 1970.0,
+    "stub_label": "Female: 55-64 years"
+  },
+  {
+    "estimate": 8.1,
+    "decade": 1970.0,
+    "stub_label": "Female: 65 years and over"
+  },
+  {
+    "estimate": 9.0,
+    "decade": 1970.0,
+    "stub_label": "Female: 65-74 years"
+  },
+  {
+    "estimate": 7.0,
+    "decade": 1970.0,
+    "stub_label": "Female: 75-84 years"
+  },
+  {
+    "estimate": 5.900000000000001,
+    "decade": 1970.0,
+    "stub_label": "Female: 85 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: American Indian or Alaska Native"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: American Indian or Alaska Native: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: American Indian or Alaska Native: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: American Indian or Alaska Native: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: American Indian or Alaska Native: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: Asian or Pacific Islander"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: Asian or Pacific Islander: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: Asian or Pacific Islander: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: Asian or Pacific Islander: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: Asian or Pacific Islander: 65 years and over"
+  },
+  {
+    "estimate": 2.75,
+    "decade": 1970.0,
+    "stub_label": "Female: Black or African American"
+  },
+  {
+    "estimate": 3.7999999999999994,
+    "decade": 1970.0,
+    "stub_label": "Female: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": 4.8,
+    "decade": 1970.0,
+    "stub_label": "Female: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": 2.9,
+    "decade": 1970.0,
+    "stub_label": "Female: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": 2.6,
+    "decade": 1970.0,
+    "stub_label": "Female: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: Hispanic or Latino: All races"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: Not Hispanic or Latino: White"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 65 years and over"
+  },
+  {
+    "estimate": 7.5,
+    "decade": 1970.0,
+    "stub_label": "Female: White"
+  },
+  {
+    "estimate": 4.2,
+    "decade": 1970.0,
+    "stub_label": "Female: White: 15-24 years"
+  },
+  {
+    "estimate": 11.0,
+    "decade": 1970.0,
+    "stub_label": "Female: White: 25-44 years"
+  },
+  {
+    "estimate": 13.0,
+    "decade": 1970.0,
+    "stub_label": "Female: White: 45-64 years"
+  },
+  {
+    "estimate": 8.5,
+    "decade": 1970.0,
+    "stub_label": "Female: White: 65 years and over"
+  },
+  {
+    "estimate": 18.3,
+    "decade": 1970.0,
+    "stub_label": "Male"
+  },
+  {
+    "estimate": 0.9,
+    "decade": 1970.0,
+    "stub_label": "Male: 10-14 years"
+  },
+  {
+    "estimate": 8.8,
+    "decade": 1970.0,
+    "stub_label": "Male: 15-19 years"
+  },
+  {
+    "estimate": 13.5,
+    "decade": 1970.0,
+    "stub_label": "Male: 15-24 years"
+  },
+  {
+    "estimate": 19.3,
+    "decade": 1970.0,
+    "stub_label": "Male: 20-24 years"
+  },
+  {
+    "estimate": 19.8,
+    "decade": 1970.0,
+    "stub_label": "Male: 25-34 years"
+  },
+  {
+    "estimate": 20.9,
+    "decade": 1970.0,
+    "stub_label": "Male: 25-44 years"
+  },
+  {
+    "estimate": 22.100000000000005,
+    "decade": 1970.0,
+    "stub_label": "Male: 35-44 years"
+  },
+  {
+    "estimate": 27.899999999999995,
+    "decade": 1970.0,
+    "stub_label": "Male: 45-54 years"
+  },
+  {
+    "estimate": 30.0,
+    "decade": 1970.0,
+    "stub_label": "Male: 45-64 years"
+  },
+  {
+    "estimate": 32.7,
+    "decade": 1970.0,
+    "stub_label": "Male: 55-64 years"
+  },
+  {
+    "estimate": 38.4,
+    "decade": 1970.0,
+    "stub_label": "Male: 65 years and over"
+  },
+  {
+    "estimate": 36.0,
+    "decade": 1970.0,
+    "stub_label": "Male: 65-74 years"
+  },
+  {
+    "estimate": 42.79999999999999,
+    "decade": 1970.0,
+    "stub_label": "Male: 75-84 years"
+  },
+  {
+    "estimate": 42.4,
+    "decade": 1970.0,
+    "stub_label": "Male: 85 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: American Indian or Alaska Native"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: American Indian or Alaska Native: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: American Indian or Alaska Native: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: American Indian or Alaska Native: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: American Indian or Alaska Native: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: Asian or Pacific Islander"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: Asian or Pacific Islander: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: Asian or Pacific Islander: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: Asian or Pacific Islander: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: Asian or Pacific Islander: 65 years and over"
+  },
+  {
+    "estimate": 9.0,
+    "decade": 1970.0,
+    "stub_label": "Male: Black or African American"
+  },
+  {
+    "estimate": 10.5,
+    "decade": 1970.0,
+    "stub_label": "Male: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": 16.1,
+    "decade": 1970.0,
+    "stub_label": "Male: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": 12.4,
+    "decade": 1970.0,
+    "stub_label": "Male: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": 8.7,
+    "decade": 1970.0,
+    "stub_label": "Male: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": 8.7,
+    "decade": 1970.0,
+    "stub_label": "Male: Black or African American: 65-74 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: Black or African American: 75-84 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: Black or African American: 85 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: Hispanic or Latino: All races"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: Not Hispanic or Latino: White"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1970.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 65 years and over"
+  },
+  {
+    "estimate": 19.400000000000002,
+    "decade": 1970.0,
+    "stub_label": "Male: White"
+  },
+  {
+    "estimate": 13.9,
+    "decade": 1970.0,
+    "stub_label": "Male: White: 15-24 years"
+  },
+  {
+    "estimate": 21.5,
+    "decade": 1970.0,
+    "stub_label": "Male: White: 25-44 years"
+  },
+  {
+    "estimate": 31.899999999999995,
+    "decade": 1970.0,
+    "stub_label": "Male: White: 45-64 years"
+  },
+  {
+    "estimate": 41.1,
+    "decade": 1970.0,
+    "stub_label": "Male: White: 65 years and over"
+  },
+  {
+    "estimate": 38.7,
+    "decade": 1970.0,
+    "stub_label": "Male: White: 65-74 years"
+  },
+  {
+    "estimate": 45.5,
+    "decade": 1970.0,
+    "stub_label": "Male: White: 75-84 years"
+  },
+  {
+    "estimate": 45.79999999999999,
+    "decade": 1970.0,
+    "stub_label": "Male: White: 85 years and over"
+  },
+  {
+    "estimate": 1.26,
+    "decade": 1980.0,
+    "stub_label": "10-14 years"
+  },
+  {
+    "estimate": 9.569999999999999,
+    "decade": 1980.0,
+    "stub_label": "15-19 years"
+  },
+  {
+    "estimate": 12.51,
+    "decade": 1980.0,
+    "stub_label": "15-24 years"
+  },
+  {
+    "estimate": 15.25,
+    "decade": 1980.0,
+    "stub_label": "20-24 years"
+  },
+  {
+    "estimate": 15.71,
+    "decade": 1980.0,
+    "stub_label": "25-34 years"
+  },
+  {
+    "estimate": 15.43,
+    "decade": 1980.0,
+    "stub_label": "25-44 years"
+  },
+  {
+    "estimate": 15.07,
+    "decade": 1980.0,
+    "stub_label": "35-44 years"
+  },
+  {
+    "estimate": 15.88,
+    "decade": 1980.0,
+    "stub_label": "45-54 years"
+  },
+  {
+    "estimate": 16.21,
+    "decade": 1980.0,
+    "stub_label": "45-64 years"
+  },
+  {
+    "estimate": 16.56,
+    "decade": 1980.0,
+    "stub_label": "55-64 years"
+  },
+  {
+    "estimate": 19.740000000000002,
+    "decade": 1980.0,
+    "stub_label": "65 years and over"
+  },
+  {
+    "estimate": 18.25,
+    "decade": 1980.0,
+    "stub_label": "65-74 years"
+  },
+  {
+    "estimate": 22.529999999999998,
+    "decade": 1980.0,
+    "stub_label": "75-84 years"
+  },
+  {
+    "estimate": 20.0,
+    "decade": 1980.0,
+    "stub_label": "85 years and over"
+  },
+  {
+    "estimate": 12.415,
+    "decade": 1980.0,
+    "stub_label": "All persons"
+  },
+  {
+    "estimate": 5.395,
+    "decade": 1980.0,
+    "stub_label": "Female"
+  },
+  {
+    "estimate": 0.62,
+    "decade": 1980.0,
+    "stub_label": "Female: 10-14 years"
+  },
+  {
+    "estimate": 3.6300000000000003,
+    "decade": 1980.0,
+    "stub_label": "Female: 15-19 years"
+  },
+  {
+    "estimate": 4.3100000000000005,
+    "decade": 1980.0,
+    "stub_label": "Female: 15-24 years"
+  },
+  {
+    "estimate": 4.89,
+    "decade": 1980.0,
+    "stub_label": "Female: 20-24 years"
+  },
+  {
+    "estimate": 6.33,
+    "decade": 1980.0,
+    "stub_label": "Female: 25-34 years"
+  },
+  {
+    "estimate": 6.92,
+    "decade": 1980.0,
+    "stub_label": "Female: 25-44 years"
+  },
+  {
+    "estimate": 7.67,
+    "decade": 1980.0,
+    "stub_label": "Female: 35-44 years"
+  },
+  {
+    "estimate": 8.84,
+    "decade": 1980.0,
+    "stub_label": "Female: 45-54 years"
+  },
+  {
+    "estimate": 8.49,
+    "decade": 1980.0,
+    "stub_label": "Female: 45-64 years"
+  },
+  {
+    "estimate": 8.16,
+    "decade": 1980.0,
+    "stub_label": "Female: 55-64 years"
+  },
+  {
+    "estimate": 6.46,
+    "decade": 1980.0,
+    "stub_label": "Female: 65 years and over"
+  },
+  {
+    "estimate": 6.9,
+    "decade": 1980.0,
+    "stub_label": "Female: 65-74 years"
+  },
+  {
+    "estimate": 6.28,
+    "decade": 1980.0,
+    "stub_label": "Female: 75-84 years"
+  },
+  {
+    "estimate": 4.86,
+    "decade": 1980.0,
+    "stub_label": "Female: 85 years and over"
+  },
+  {
+    "estimate": 3.907142857142857,
+    "decade": 1980.0,
+    "stub_label": "Female: American Indian or Alaska Native"
+  },
+  {
+    "estimate": null,
+    "decade": 1980.0,
+    "stub_label": "Female: American Indian or Alaska Native: 15-24 years"
+  },
+  {
+    "estimate": 8.799999999999999,
+    "decade": 1980.0,
+    "stub_label": "Female: American Indian or Alaska Native: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1980.0,
+    "stub_label": "Female: American Indian or Alaska Native: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1980.0,
+    "stub_label": "Female: American Indian or Alaska Native: 65 years and over"
+  },
+  {
+    "estimate": 4.771428571428571,
+    "decade": 1980.0,
+    "stub_label": "Female: Asian or Pacific Islander"
+  },
+  {
+    "estimate": 5.0,
+    "decade": 1980.0,
+    "stub_label": "Female: Asian or Pacific Islander: 15-24 years"
+  },
+  {
+    "estimate": 4.6000000000000005,
+    "decade": 1980.0,
+    "stub_label": "Female: Asian or Pacific Islander: 25-44 years"
+  },
+  {
+    "estimate": 6.2,
+    "decade": 1980.0,
+    "stub_label": "Female: Asian or Pacific Islander: 45-64 years"
+  },
+  {
+    "estimate": 11.600000000000001,
+    "decade": 1980.0,
+    "stub_label": "Female: Asian or Pacific Islander: 65 years and over"
+  },
+  {
+    "estimate": 2.295,
+    "decade": 1980.0,
+    "stub_label": "Female: Black or African American"
+  },
+  {
+    "estimate": 2.44,
+    "decade": 1980.0,
+    "stub_label": "Female: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": 3.67,
+    "decade": 1980.0,
+    "stub_label": "Female: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": 2.85,
+    "decade": 1980.0,
+    "stub_label": "Female: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": 2.0875,
+    "decade": 1980.0,
+    "stub_label": "Female: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": 1.97,
+    "decade": 1980.0,
+    "stub_label": "Female: Hispanic or Latino: All races"
+  },
+  {
+    "estimate": 2.6199999999999997,
+    "decade": 1980.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 15-24 years"
+  },
+  {
+    "estimate": 2.6,
+    "decade": 1980.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 25-44 years"
+  },
+  {
+    "estimate": 2.8400000000000003,
+    "decade": 1980.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1980.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1980.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American"
+  },
+  {
+    "estimate": null,
+    "decade": 1980.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1980.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1980.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1980.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": 5.86,
+    "decade": 1980.0,
+    "stub_label": "Female: Not Hispanic or Latino: White"
+  },
+  {
+    "estimate": 4.58,
+    "decade": 1980.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 15-24 years"
+  },
+  {
+    "estimate": 7.22,
+    "decade": 1980.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 25-44 years"
+  },
+  {
+    "estimate": 8.979999999999999,
+    "decade": 1980.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 45-64 years"
+  },
+  {
+    "estimate": 7.319999999999999,
+    "decade": 1980.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 65 years and over"
+  },
+  {
+    "estimate": 5.85,
+    "decade": 1980.0,
+    "stub_label": "Female: White"
+  },
+  {
+    "estimate": 4.6,
+    "decade": 1980.0,
+    "stub_label": "Female: White: 15-24 years"
+  },
+  {
+    "estimate": 7.45,
+    "decade": 1980.0,
+    "stub_label": "Female: White: 25-44 years"
+  },
+  {
+    "estimate": 9.22,
+    "decade": 1980.0,
+    "stub_label": "Female: White: 45-64 years"
+  },
+  {
+    "estimate": 6.85,
+    "decade": 1980.0,
+    "stub_label": "Female: White: 65 years and over"
+  },
+  {
+    "estimate": 20.265,
+    "decade": 1980.0,
+    "stub_label": "Male"
+  },
+  {
+    "estimate": 1.88,
+    "decade": 1980.0,
+    "stub_label": "Male: 10-14 years"
+  },
+  {
+    "estimate": 15.26,
+    "decade": 1980.0,
+    "stub_label": "Male: 15-19 years"
+  },
+  {
+    "estimate": 20.509999999999998,
+    "decade": 1980.0,
+    "stub_label": "Male: 15-24 years"
+  },
+  {
+    "estimate": 25.44,
+    "decade": 1980.0,
+    "stub_label": "Male: 20-24 years"
+  },
+  {
+    "estimate": 25.15,
+    "decade": 1980.0,
+    "stub_label": "Male: 25-34 years"
+  },
+  {
+    "estimate": 24.110000000000003,
+    "decade": 1980.0,
+    "stub_label": "Male: 25-44 years"
+  },
+  {
+    "estimate": 22.7,
+    "decade": 1980.0,
+    "stub_label": "Male: 35-44 years"
+  },
+  {
+    "estimate": 23.37,
+    "decade": 1980.0,
+    "stub_label": "Male: 45-54 years"
+  },
+  {
+    "estimate": 24.65,
+    "decade": 1980.0,
+    "stub_label": "Male: 45-64 years"
+  },
+  {
+    "estimate": 26.08,
+    "decade": 1980.0,
+    "stub_label": "Male: 55-64 years"
+  },
+  {
+    "estimate": 39.53,
+    "decade": 1980.0,
+    "stub_label": "Male: 65 years and over"
+  },
+  {
+    "estimate": 32.96,
+    "decade": 1980.0,
+    "stub_label": "Male: 65-74 years"
+  },
+  {
+    "estimate": 50.07,
+    "decade": 1980.0,
+    "stub_label": "Male: 75-84 years"
+  },
+  {
+    "estimate": 57.36,
+    "decade": 1980.0,
+    "stub_label": "Male: 85 years and over"
+  },
+  {
+    "estimate": 19.478571428571428,
+    "decade": 1980.0,
+    "stub_label": "Male: American Indian or Alaska Native"
+  },
+  {
+    "estimate": 43.199999999999996,
+    "decade": 1980.0,
+    "stub_label": "Male: American Indian or Alaska Native: 15-24 years"
+  },
+  {
+    "estimate": 29.974999999999998,
+    "decade": 1980.0,
+    "stub_label": "Male: American Indian or Alaska Native: 25-44 years"
+  },
+  {
+    "estimate": 15.4,
+    "decade": 1980.0,
+    "stub_label": "Male: American Indian or Alaska Native: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1980.0,
+    "stub_label": "Male: American Indian or Alaska Native: 65 years and over"
+  },
+  {
+    "estimate": 9.114285714285714,
+    "decade": 1980.0,
+    "stub_label": "Male: Asian or Pacific Islander"
+  },
+  {
+    "estimate": 11.275,
+    "decade": 1980.0,
+    "stub_label": "Male: Asian or Pacific Islander: 15-24 years"
+  },
+  {
+    "estimate": 9.775,
+    "decade": 1980.0,
+    "stub_label": "Male: Asian or Pacific Islander: 25-44 years"
+  },
+  {
+    "estimate": 10.5,
+    "decade": 1980.0,
+    "stub_label": "Male: Asian or Pacific Islander: 45-64 years"
+  },
+  {
+    "estimate": 17.474999999999998,
+    "decade": 1980.0,
+    "stub_label": "Male: Asian or Pacific Islander: 65 years and over"
+  },
+  {
+    "estimate": 11.42,
+    "decade": 1980.0,
+    "stub_label": "Male: Black or African American"
+  },
+  {
+    "estimate": 12.620000000000001,
+    "decade": 1980.0,
+    "stub_label": "Male: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": 19.09,
+    "decade": 1980.0,
+    "stub_label": "Male: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": 12.06,
+    "decade": 1980.0,
+    "stub_label": "Male: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": 14.860000000000001,
+    "decade": 1980.0,
+    "stub_label": "Male: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": 14.54,
+    "decade": 1980.0,
+    "stub_label": "Male: Black or African American: 65-74 years"
+  },
+  {
+    "estimate": 15.729999999999999,
+    "decade": 1980.0,
+    "stub_label": "Male: Black or African American: 75-84 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1980.0,
+    "stub_label": "Male: Black or African American: 85 years and over"
+  },
+  {
+    "estimate": 11.55,
+    "decade": 1980.0,
+    "stub_label": "Male: Hispanic or Latino: All races"
+  },
+  {
+    "estimate": 14.4,
+    "decade": 1980.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 15-24 years"
+  },
+  {
+    "estimate": 15.08,
+    "decade": 1980.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 25-44 years"
+  },
+  {
+    "estimate": 13.66,
+    "decade": 1980.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 45-64 years"
+  },
+  {
+    "estimate": 21.12,
+    "decade": 1980.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 1980.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American"
+  },
+  {
+    "estimate": null,
+    "decade": 1980.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1980.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1980.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1980.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": 22.35,
+    "decade": 1980.0,
+    "stub_label": "Male: Not Hispanic or Latino: White"
+  },
+  {
+    "estimate": 22.16,
+    "decade": 1980.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 15-24 years"
+  },
+  {
+    "estimate": 25.02,
+    "decade": 1980.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 25-44 years"
+  },
+  {
+    "estimate": 26.0,
+    "decade": 1980.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 45-64 years"
+  },
+  {
+    "estimate": 46.3,
+    "decade": 1980.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 65 years and over"
+  },
+  {
+    "estimate": 21.63,
+    "decade": 1980.0,
+    "stub_label": "Male: White"
+  },
+  {
+    "estimate": 21.87,
+    "decade": 1980.0,
+    "stub_label": "Male: White: 15-24 years"
+  },
+  {
+    "estimate": 25.09,
+    "decade": 1980.0,
+    "stub_label": "Male: White: 25-44 years"
+  },
+  {
+    "estimate": 26.31,
+    "decade": 1980.0,
+    "stub_label": "Male: White: 45-64 years"
+  },
+  {
+    "estimate": 42.07000000000001,
+    "decade": 1980.0,
+    "stub_label": "Male: White: 65 years and over"
+  },
+  {
+    "estimate": 34.940000000000005,
+    "decade": 1980.0,
+    "stub_label": "Male: White: 65-74 years"
+  },
+  {
+    "estimate": 53.57,
+    "decade": 1980.0,
+    "stub_label": "Male: White: 75-84 years"
+  },
+  {
+    "estimate": 61.440000000000005,
+    "decade": 1980.0,
+    "stub_label": "Male: White: 85 years and over"
+  },
+  {
+    "estimate": 1.5599999999999998,
+    "decade": 1990.0,
+    "stub_label": "10-14 years"
+  },
+  {
+    "estimate": 10.05,
+    "decade": 1990.0,
+    "stub_label": "15-19 years"
+  },
+  {
+    "estimate": 12.3,
+    "decade": 1990.0,
+    "stub_label": "15-24 years"
+  },
+  {
+    "estimate": 14.520000000000001,
+    "decade": 1990.0,
+    "stub_label": "20-24 years"
+  },
+  {
+    "estimate": 14.31,
+    "decade": 1990.0,
+    "stub_label": "25-34 years"
+  },
+  {
+    "estimate": 14.71,
+    "decade": 1990.0,
+    "stub_label": "25-44 years"
+  },
+  {
+    "estimate": 15.07,
+    "decade": 1990.0,
+    "stub_label": "35-44 years"
+  },
+  {
+    "estimate": 14.55,
+    "decade": 1990.0,
+    "stub_label": "45-54 years"
+  },
+  {
+    "estimate": 14.31,
+    "decade": 1990.0,
+    "stub_label": "45-64 years"
+  },
+  {
+    "estimate": 13.92,
+    "decade": 1990.0,
+    "stub_label": "55-64 years"
+  },
+  {
+    "estimate": 18.040000000000003,
+    "decade": 1990.0,
+    "stub_label": "65 years and over"
+  },
+  {
+    "estimate": 15.5,
+    "decade": 1990.0,
+    "stub_label": "65-74 years"
+  },
+  {
+    "estimate": 21.19,
+    "decade": 1990.0,
+    "stub_label": "75-84 years"
+  },
+  {
+    "estimate": 21.52,
+    "decade": 1990.0,
+    "stub_label": "85 years and over"
+  },
+  {
+    "estimate": 11.66,
+    "decade": 1990.0,
+    "stub_label": "All persons"
+  },
+  {
+    "estimate": 4.430000000000001,
+    "decade": 1990.0,
+    "stub_label": "Female"
+  },
+  {
+    "estimate": 0.8,
+    "decade": 1990.0,
+    "stub_label": "Female: 10-14 years"
+  },
+  {
+    "estimate": 3.3400000000000003,
+    "decade": 1990.0,
+    "stub_label": "Female: 15-19 years"
+  },
+  {
+    "estimate": 3.5900000000000003,
+    "decade": 1990.0,
+    "stub_label": "Female: 15-24 years"
+  },
+  {
+    "estimate": 3.86,
+    "decade": 1990.0,
+    "stub_label": "Female: 20-24 years"
+  },
+  {
+    "estimate": 5.01,
+    "decade": 1990.0,
+    "stub_label": "Female: 25-34 years"
+  },
+  {
+    "estimate": 5.8100000000000005,
+    "decade": 1990.0,
+    "stub_label": "Female: 25-44 years"
+  },
+  {
+    "estimate": 6.6,
+    "decade": 1990.0,
+    "stub_label": "Female: 35-44 years"
+  },
+  {
+    "estimate": 6.98,
+    "decade": 1990.0,
+    "stub_label": "Female: 45-54 years"
+  },
+  {
+    "estimate": 6.52,
+    "decade": 1990.0,
+    "stub_label": "Female: 45-64 years"
+  },
+  {
+    "estimate": 5.88,
+    "decade": 1990.0,
+    "stub_label": "Female: 55-64 years"
+  },
+  {
+    "estimate": 5.35,
+    "decade": 1990.0,
+    "stub_label": "Female: 65 years and over"
+  },
+  {
+    "estimate": 5.3100000000000005,
+    "decade": 1990.0,
+    "stub_label": "Female: 65-74 years"
+  },
+  {
+    "estimate": 5.42,
+    "decade": 1990.0,
+    "stub_label": "Female: 75-84 years"
+  },
+  {
+    "estimate": 5.33,
+    "decade": 1990.0,
+    "stub_label": "Female: 85 years and over"
+  },
+  {
+    "estimate": 4.105,
+    "decade": 1990.0,
+    "stub_label": "Female: American Indian or Alaska Native"
+  },
+  {
+    "estimate": 9.950000000000001,
+    "decade": 1990.0,
+    "stub_label": "Female: American Indian or Alaska Native: 15-24 years"
+  },
+  {
+    "estimate": 6.449999999999999,
+    "decade": 1990.0,
+    "stub_label": "Female: American Indian or Alaska Native: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1990.0,
+    "stub_label": "Female: American Indian or Alaska Native: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1990.0,
+    "stub_label": "Female: American Indian or Alaska Native: 65 years and over"
+  },
+  {
+    "estimate": 3.7449999999999997,
+    "decade": 1990.0,
+    "stub_label": "Female: Asian or Pacific Islander"
+  },
+  {
+    "estimate": 4.2,
+    "decade": 1990.0,
+    "stub_label": "Female: Asian or Pacific Islander: 15-24 years"
+  },
+  {
+    "estimate": 3.9099999999999997,
+    "decade": 1990.0,
+    "stub_label": "Female: Asian or Pacific Islander: 25-44 years"
+  },
+  {
+    "estimate": 4.71,
+    "decade": 1990.0,
+    "stub_label": "Female: Asian or Pacific Islander: 45-64 years"
+  },
+  {
+    "estimate": 7.97,
+    "decade": 1990.0,
+    "stub_label": "Female: Asian or Pacific Islander: 65 years and over"
+  },
+  {
+    "estimate": 1.96,
+    "decade": 1990.0,
+    "stub_label": "Female: Black or African American"
+  },
+  {
+    "estimate": 2.21,
+    "decade": 1990.0,
+    "stub_label": "Female: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": 3.0,
+    "decade": 1990.0,
+    "stub_label": "Female: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": 2.35,
+    "decade": 1990.0,
+    "stub_label": "Female: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": 1.84,
+    "decade": 1990.0,
+    "stub_label": "Female: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": 1.99,
+    "decade": 1990.0,
+    "stub_label": "Female: Hispanic or Latino: All races"
+  },
+  {
+    "estimate": 2.58,
+    "decade": 1990.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 15-24 years"
+  },
+  {
+    "estimate": 2.56,
+    "decade": 1990.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 25-44 years"
+  },
+  {
+    "estimate": 2.61,
+    "decade": 1990.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 45-64 years"
+  },
+  {
+    "estimate": 2.82,
+    "decade": 1990.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 65 years and over"
+  },
+  {
+    "estimate": 4.6499999999999995,
+    "decade": 1990.0,
+    "stub_label": "Female: Not Hispanic or Latino: American Indian or Alaska Native"
+  },
+  {
+    "estimate": null,
+    "decade": 1990.0,
+    "stub_label": "Female: Not Hispanic or Latino: American Indian or Alaska Native: 15-24 years"
+  },
+  {
+    "estimate": 8.2,
+    "decade": 1990.0,
+    "stub_label": "Female: Not Hispanic or Latino: American Indian or Alaska Native: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1990.0,
+    "stub_label": "Female: Not Hispanic or Latino: American Indian or Alaska Native: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1990.0,
+    "stub_label": "Female: Not Hispanic or Latino: American Indian or Alaska Native: 65 years and over"
+  },
+  {
+    "estimate": 3.3499999999999996,
+    "decade": 1990.0,
+    "stub_label": "Female: Not Hispanic or Latino: Asian or Pacific Islander"
+  },
+  {
+    "estimate": 4.1,
+    "decade": 1990.0,
+    "stub_label": "Female: Not Hispanic or Latino: Asian or Pacific Islander: 15-24 years"
+  },
+  {
+    "estimate": 3.7999999999999994,
+    "decade": 1990.0,
+    "stub_label": "Female: Not Hispanic or Latino: Asian or Pacific Islander: 25-44 years"
+  },
+  {
+    "estimate": 3.9,
+    "decade": 1990.0,
+    "stub_label": "Female: Not Hispanic or Latino: Asian or Pacific Islander: 45-64 years"
+  },
+  {
+    "estimate": 6.400000000000001,
+    "decade": 1990.0,
+    "stub_label": "Female: Not Hispanic or Latino: Asian or Pacific Islander: 65 years and over"
+  },
+  {
+    "estimate": 1.6500000000000001,
+    "decade": 1990.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American"
+  },
+  {
+    "estimate": 2.0,
+    "decade": 1990.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": 2.5,
+    "decade": 1990.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": 1.8999999999999997,
+    "decade": 1990.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": 1.5,
+    "decade": 1990.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": 5.13,
+    "decade": 1990.0,
+    "stub_label": "Female: Not Hispanic or Latino: White"
+  },
+  {
+    "estimate": 3.96,
+    "decade": 1990.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 15-24 years"
+  },
+  {
+    "estimate": 6.8,
+    "decade": 1990.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 25-44 years"
+  },
+  {
+    "estimate": 7.46,
+    "decade": 1990.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 45-64 years"
+  },
+  {
+    "estimate": 5.739999999999999,
+    "decade": 1990.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 65 years and over"
+  },
+  {
+    "estimate": 4.85,
+    "decade": 1990.0,
+    "stub_label": "Female: White"
+  },
+  {
+    "estimate": 3.79,
+    "decade": 1990.0,
+    "stub_label": "Female: White: 15-24 years"
+  },
+  {
+    "estimate": 6.38,
+    "decade": 1990.0,
+    "stub_label": "Female: White: 25-44 years"
+  },
+  {
+    "estimate": 7.16,
+    "decade": 1990.0,
+    "stub_label": "Female: White: 45-64 years"
+  },
+  {
+    "estimate": 5.66,
+    "decade": 1990.0,
+    "stub_label": "Female: White: 65 years and over"
+  },
+  {
+    "estimate": 19.584999999999997,
+    "decade": 1990.0,
+    "stub_label": "Male"
+  },
+  {
+    "estimate": 2.3,
+    "decade": 1990.0,
+    "stub_label": "Male: 10-14 years"
+  },
+  {
+    "estimate": 16.36,
+    "decade": 1990.0,
+    "stub_label": "Male: 15-19 years"
+  },
+  {
+    "estimate": 20.59,
+    "decade": 1990.0,
+    "stub_label": "Male: 15-24 years"
+  },
+  {
+    "estimate": 24.83,
+    "decade": 1990.0,
+    "stub_label": "Male: 20-24 years"
+  },
+  {
+    "estimate": 23.52,
+    "decade": 1990.0,
+    "stub_label": "Male: 25-34 years"
+  },
+  {
+    "estimate": 23.62,
+    "decade": 1990.0,
+    "stub_label": "Male: 25-44 years"
+  },
+  {
+    "estimate": 23.69,
+    "decade": 1990.0,
+    "stub_label": "Male: 35-44 years"
+  },
+  {
+    "estimate": 22.48,
+    "decade": 1990.0,
+    "stub_label": "Male: 45-54 years"
+  },
+  {
+    "estimate": 22.61,
+    "decade": 1990.0,
+    "stub_label": "Male: 45-64 years"
+  },
+  {
+    "estimate": 22.75,
+    "decade": 1990.0,
+    "stub_label": "Male: 55-64 years"
+  },
+  {
+    "estimate": 36.61,
+    "decade": 1990.0,
+    "stub_label": "Male: 65 years and over"
+  },
+  {
+    "estimate": 28.240000000000002,
+    "decade": 1990.0,
+    "stub_label": "Male: 65-74 years"
+  },
+  {
+    "estimate": 46.61,
+    "decade": 1990.0,
+    "stub_label": "Male: 75-84 years"
+  },
+  {
+    "estimate": 63.3,
+    "decade": 1990.0,
+    "stub_label": "Male: 85 years and over"
+  },
+  {
+    "estimate": 18.290000000000003,
+    "decade": 1990.0,
+    "stub_label": "Male: American Indian or Alaska Native"
+  },
+  {
+    "estimate": 35.74,
+    "decade": 1990.0,
+    "stub_label": "Male: American Indian or Alaska Native: 15-24 years"
+  },
+  {
+    "estimate": 28.740000000000002,
+    "decade": 1990.0,
+    "stub_label": "Male: American Indian or Alaska Native: 25-44 years"
+  },
+  {
+    "estimate": 12.799999999999999,
+    "decade": 1990.0,
+    "stub_label": "Male: American Indian or Alaska Native: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1990.0,
+    "stub_label": "Male: American Indian or Alaska Native: 65 years and over"
+  },
+  {
+    "estimate": 9.125,
+    "decade": 1990.0,
+    "stub_label": "Male: Asian or Pacific Islander"
+  },
+  {
+    "estimate": 12.03,
+    "decade": 1990.0,
+    "stub_label": "Male: Asian or Pacific Islander: 15-24 years"
+  },
+  {
+    "estimate": 10.58,
+    "decade": 1990.0,
+    "stub_label": "Male: Asian or Pacific Islander: 25-44 years"
+  },
+  {
+    "estimate": 10.03,
+    "decade": 1990.0,
+    "stub_label": "Male: Asian or Pacific Islander: 45-64 years"
+  },
+  {
+    "estimate": 17.759999999999998,
+    "decade": 1990.0,
+    "stub_label": "Male: Asian or Pacific Islander: 65 years and over"
+  },
+  {
+    "estimate": 11.665,
+    "decade": 1990.0,
+    "stub_label": "Male: Black or African American"
+  },
+  {
+    "estimate": 16.919999999999998,
+    "decade": 1990.0,
+    "stub_label": "Male: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": 17.67,
+    "decade": 1990.0,
+    "stub_label": "Male: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": 11.360000000000001,
+    "decade": 1990.0,
+    "stub_label": "Male: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": 14.05,
+    "decade": 1990.0,
+    "stub_label": "Male: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": 13.16,
+    "decade": 1990.0,
+    "stub_label": "Male: Black or African American: 65-74 years"
+  },
+  {
+    "estimate": 15.67,
+    "decade": 1990.0,
+    "stub_label": "Male: Black or African American: 75-84 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1990.0,
+    "stub_label": "Male: Black or African American: 85 years and over"
+  },
+  {
+    "estimate": 11.4,
+    "decade": 1990.0,
+    "stub_label": "Male: Hispanic or Latino: All races"
+  },
+  {
+    "estimate": 14.360000000000001,
+    "decade": 1990.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 15-24 years"
+  },
+  {
+    "estimate": 14.29,
+    "decade": 1990.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 25-44 years"
+  },
+  {
+    "estimate": 13.96,
+    "decade": 1990.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 45-64 years"
+  },
+  {
+    "estimate": 21.25,
+    "decade": 1990.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 65 years and over"
+  },
+  {
+    "estimate": 19.849999999999998,
+    "decade": 1990.0,
+    "stub_label": "Male: Not Hispanic or Latino: American Indian or Alaska Native"
+  },
+  {
+    "estimate": 39.1,
+    "decade": 1990.0,
+    "stub_label": "Male: Not Hispanic or Latino: American Indian or Alaska Native: 15-24 years"
+  },
+  {
+    "estimate": 30.0,
+    "decade": 1990.0,
+    "stub_label": "Male: Not Hispanic or Latino: American Indian or Alaska Native: 25-44 years"
+  },
+  {
+    "estimate": 14.9,
+    "decade": 1990.0,
+    "stub_label": "Male: Not Hispanic or Latino: American Indian or Alaska Native: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 1990.0,
+    "stub_label": "Male: Not Hispanic or Latino: American Indian or Alaska Native: 65 years and over"
+  },
+  {
+    "estimate": 8.799999999999999,
+    "decade": 1990.0,
+    "stub_label": "Male: Not Hispanic or Latino: Asian or Pacific Islander"
+  },
+  {
+    "estimate": 9.5,
+    "decade": 1990.0,
+    "stub_label": "Male: Not Hispanic or Latino: Asian or Pacific Islander: 15-24 years"
+  },
+  {
+    "estimate": 10.800000000000002,
+    "decade": 1990.0,
+    "stub_label": "Male: Not Hispanic or Latino: Asian or Pacific Islander: 25-44 years"
+  },
+  {
+    "estimate": 11.5,
+    "decade": 1990.0,
+    "stub_label": "Male: Not Hispanic or Latino: Asian or Pacific Islander: 45-64 years"
+  },
+  {
+    "estimate": 13.6,
+    "decade": 1990.0,
+    "stub_label": "Male: Not Hispanic or Latino: Asian or Pacific Islander: 65 years and over"
+  },
+  {
+    "estimate": 10.200000000000001,
+    "decade": 1990.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American"
+  },
+  {
+    "estimate": 14.800000000000002,
+    "decade": 1990.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": 15.5,
+    "decade": 1990.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": 9.8,
+    "decade": 1990.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": 12.6,
+    "decade": 1990.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": 21.959999999999997,
+    "decade": 1990.0,
+    "stub_label": "Male: Not Hispanic or Latino: White"
+  },
+  {
+    "estimate": 22.57,
+    "decade": 1990.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 15-24 years"
+  },
+  {
+    "estimate": 26.3,
+    "decade": 1990.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 25-44 years"
+  },
+  {
+    "estimate": 24.98,
+    "decade": 1990.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 45-64 years"
+  },
+  {
+    "estimate": 39.53,
+    "decade": 1990.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 65 years and over"
+  },
+  {
+    "estimate": 21.015,
+    "decade": 1990.0,
+    "stub_label": "Male: White"
+  },
+  {
+    "estimate": 21.490000000000002,
+    "decade": 1990.0,
+    "stub_label": "Male: White: 15-24 years"
+  },
+  {
+    "estimate": 25.009999999999998,
+    "decade": 1990.0,
+    "stub_label": "Male: White: 25-44 years"
+  },
+  {
+    "estimate": 24.37,
+    "decade": 1990.0,
+    "stub_label": "Male: White: 45-64 years"
+  },
+  {
+    "estimate": 39.01,
+    "decade": 1990.0,
+    "stub_label": "Male: White: 65 years and over"
+  },
+  {
+    "estimate": 30.0,
+    "decade": 1990.0,
+    "stub_label": "Male: White: 65-74 years"
+  },
+  {
+    "estimate": 49.55,
+    "decade": 1990.0,
+    "stub_label": "Male: White: 75-84 years"
+  },
+  {
+    "estimate": 68.1,
+    "decade": 1990.0,
+    "stub_label": "Male: White: 85 years and over"
+  },
+  {
+    "estimate": 1.1900000000000002,
+    "decade": 2000.0,
+    "stub_label": "10-14 years"
+  },
+  {
+    "estimate": 7.45,
+    "decade": 2000.0,
+    "stub_label": "15-19 years"
+  },
+  {
+    "estimate": 9.9,
+    "decade": 2000.0,
+    "stub_label": "15-24 years"
+  },
+  {
+    "estimate": 12.41,
+    "decade": 2000.0,
+    "stub_label": "20-24 years"
+  },
+  {
+    "estimate": 12.84,
+    "decade": 2000.0,
+    "stub_label": "25-34 years"
+  },
+  {
+    "estimate": 14.110000000000001,
+    "decade": 2000.0,
+    "stub_label": "25-44 years"
+  },
+  {
+    "estimate": 15.270000000000001,
+    "decade": 2000.0,
+    "stub_label": "35-44 years"
+  },
+  {
+    "estimate": 16.7,
+    "decade": 2000.0,
+    "stub_label": "45-54 years"
+  },
+  {
+    "estimate": 15.66,
+    "decade": 2000.0,
+    "stub_label": "45-64 years"
+  },
+  {
+    "estimate": 14.2,
+    "decade": 2000.0,
+    "stub_label": "55-64 years"
+  },
+  {
+    "estimate": 14.8,
+    "decade": 2000.0,
+    "stub_label": "65 years and over"
+  },
+  {
+    "estimate": 12.84,
+    "decade": 2000.0,
+    "stub_label": "65-74 years"
+  },
+  {
+    "estimate": 16.61,
+    "decade": 2000.0,
+    "stub_label": "75-84 years"
+  },
+  {
+    "estimate": 17.720000000000002,
+    "decade": 2000.0,
+    "stub_label": "85 years and over"
+  },
+  {
+    "estimate": 11.1,
+    "decade": 2000.0,
+    "stub_label": "All persons"
+  },
+  {
+    "estimate": 4.465,
+    "decade": 2000.0,
+    "stub_label": "Female"
+  },
+  {
+    "estimate": 0.66,
+    "decade": 2000.0,
+    "stub_label": "Female: 10-14 years"
+  },
+  {
+    "estimate": 2.82,
+    "decade": 2000.0,
+    "stub_label": "Female: 15-19 years"
+  },
+  {
+    "estimate": 3.2199999999999998,
+    "decade": 2000.0,
+    "stub_label": "Female: 15-24 years"
+  },
+  {
+    "estimate": 3.64,
+    "decade": 2000.0,
+    "stub_label": "Female: 20-24 years"
+  },
+  {
+    "estimate": 4.760000000000001,
+    "decade": 2000.0,
+    "stub_label": "Female: 25-34 years"
+  },
+  {
+    "estimate": 5.890000000000001,
+    "decade": 2000.0,
+    "stub_label": "Female: 25-44 years"
+  },
+  {
+    "estimate": 6.930000000000001,
+    "decade": 2000.0,
+    "stub_label": "Female: 35-44 years"
+  },
+  {
+    "estimate": 8.1,
+    "decade": 2000.0,
+    "stub_label": "Female: 45-54 years"
+  },
+  {
+    "estimate": 7.36,
+    "decade": 2000.0,
+    "stub_label": "Female: 45-64 years"
+  },
+  {
+    "estimate": 6.3100000000000005,
+    "decade": 2000.0,
+    "stub_label": "Female: 55-64 years"
+  },
+  {
+    "estimate": 3.95,
+    "decade": 2000.0,
+    "stub_label": "Female: 65 years and over"
+  },
+  {
+    "estimate": 4.069999999999999,
+    "decade": 2000.0,
+    "stub_label": "Female: 65-74 years"
+  },
+  {
+    "estimate": 3.93,
+    "decade": 2000.0,
+    "stub_label": "Female: 75-84 years"
+  },
+  {
+    "estimate": 3.69,
+    "decade": 2000.0,
+    "stub_label": "Female: 85 years and over"
+  },
+  {
+    "estimate": 4.455,
+    "decade": 2000.0,
+    "stub_label": "Female: American Indian or Alaska Native"
+  },
+  {
+    "estimate": 8.512500000000001,
+    "decade": 2000.0,
+    "stub_label": "Female: American Indian or Alaska Native: 15-24 years"
+  },
+  {
+    "estimate": 6.48,
+    "decade": 2000.0,
+    "stub_label": "Female: American Indian or Alaska Native: 25-44 years"
+  },
+  {
+    "estimate": 6.2,
+    "decade": 2000.0,
+    "stub_label": "Female: American Indian or Alaska Native: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 2000.0,
+    "stub_label": "Female: American Indian or Alaska Native: 65 years and over"
+  },
+  {
+    "estimate": 3.17,
+    "decade": 2000.0,
+    "stub_label": "Female: Asian or Pacific Islander"
+  },
+  {
+    "estimate": 3.3333333333333335,
+    "decade": 2000.0,
+    "stub_label": "Female: Asian or Pacific Islander: 15-24 years"
+  },
+  {
+    "estimate": 3.61,
+    "decade": 2000.0,
+    "stub_label": "Female: Asian or Pacific Islander: 25-44 years"
+  },
+  {
+    "estimate": 3.95,
+    "decade": 2000.0,
+    "stub_label": "Female: Asian or Pacific Islander: 45-64 years"
+  },
+  {
+    "estimate": 5.8,
+    "decade": 2000.0,
+    "stub_label": "Female: Asian or Pacific Islander: 65 years and over"
+  },
+  {
+    "estimate": 1.695,
+    "decade": 2000.0,
+    "stub_label": "Female: Black or African American"
+  },
+  {
+    "estimate": 1.87,
+    "decade": 2000.0,
+    "stub_label": "Female: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": 2.6,
+    "decade": 2000.0,
+    "stub_label": "Female: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": 2.19,
+    "decade": 2000.0,
+    "stub_label": "Female: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": 1.3,
+    "decade": 2000.0,
+    "stub_label": "Female: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": 1.715,
+    "decade": 2000.0,
+    "stub_label": "Female: Hispanic or Latino: All races"
+  },
+  {
+    "estimate": 2.24,
+    "decade": 2000.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 15-24 years"
+  },
+  {
+    "estimate": 2.23,
+    "decade": 2000.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 25-44 years"
+  },
+  {
+    "estimate": 2.5300000000000002,
+    "decade": 2000.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 45-64 years"
+  },
+  {
+    "estimate": 1.9000000000000001,
+    "decade": 2000.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 65 years and over"
+  },
+  {
+    "estimate": 6.11,
+    "decade": 2000.0,
+    "stub_label": "Female: Not Hispanic or Latino: American Indian or Alaska Native"
+  },
+  {
+    "estimate": 12.514285714285714,
+    "decade": 2000.0,
+    "stub_label": "Female: Not Hispanic or Latino: American Indian or Alaska Native: 15-24 years"
+  },
+  {
+    "estimate": 9.29,
+    "decade": 2000.0,
+    "stub_label": "Female: Not Hispanic or Latino: American Indian or Alaska Native: 25-44 years"
+  },
+  {
+    "estimate": 8.299999999999999,
+    "decade": 2000.0,
+    "stub_label": "Female: Not Hispanic or Latino: American Indian or Alaska Native: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 2000.0,
+    "stub_label": "Female: Not Hispanic or Latino: American Indian or Alaska Native: 65 years and over"
+  },
+  {
+    "estimate": 3.225,
+    "decade": 2000.0,
+    "stub_label": "Female: Not Hispanic or Latino: Asian or Pacific Islander"
+  },
+  {
+    "estimate": 3.4555555555555553,
+    "decade": 2000.0,
+    "stub_label": "Female: Not Hispanic or Latino: Asian or Pacific Islander: 15-24 years"
+  },
+  {
+    "estimate": 3.64,
+    "decade": 2000.0,
+    "stub_label": "Female: Not Hispanic or Latino: Asian or Pacific Islander: 25-44 years"
+  },
+  {
+    "estimate": 4.01,
+    "decade": 2000.0,
+    "stub_label": "Female: Not Hispanic or Latino: Asian or Pacific Islander: 45-64 years"
+  },
+  {
+    "estimate": 5.86,
+    "decade": 2000.0,
+    "stub_label": "Female: Not Hispanic or Latino: Asian or Pacific Islander: 65 years and over"
+  },
+  {
+    "estimate": 1.73,
+    "decade": 2000.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American"
+  },
+  {
+    "estimate": 1.9400000000000002,
+    "decade": 2000.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": 2.69,
+    "decade": 2000.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": 2.2199999999999998,
+    "decade": 2000.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": 1.3,
+    "decade": 2000.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": 5.534999999999999,
+    "decade": 2000.0,
+    "stub_label": "Female: Not Hispanic or Latino: White"
+  },
+  {
+    "estimate": 3.65,
+    "decade": 2000.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 15-24 years"
+  },
+  {
+    "estimate": 7.62,
+    "decade": 2000.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 25-44 years"
+  },
+  {
+    "estimate": 8.93,
+    "decade": 2000.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 45-64 years"
+  },
+  {
+    "estimate": 4.38,
+    "decade": 2000.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 65 years and over"
+  },
+  {
+    "estimate": 5.0,
+    "decade": 2000.0,
+    "stub_label": "Female: White"
+  },
+  {
+    "estimate": 3.4099999999999997,
+    "decade": 2000.0,
+    "stub_label": "Female: White: 15-24 years"
+  },
+  {
+    "estimate": 6.67,
+    "decade": 2000.0,
+    "stub_label": "Female: White: 25-44 years"
+  },
+  {
+    "estimate": 8.33,
+    "decade": 2000.0,
+    "stub_label": "Female: White: 45-64 years"
+  },
+  {
+    "estimate": 4.2,
+    "decade": 2000.0,
+    "stub_label": "Female: White: 65 years and over"
+  },
+  {
+    "estimate": 18.205,
+    "decade": 2000.0,
+    "stub_label": "Male"
+  },
+  {
+    "estimate": 1.69,
+    "decade": 2000.0,
+    "stub_label": "Male: 10-14 years"
+  },
+  {
+    "estimate": 11.84,
+    "decade": 2000.0,
+    "stub_label": "Male: 15-19 years"
+  },
+  {
+    "estimate": 16.25,
+    "decade": 2000.0,
+    "stub_label": "Male: 15-24 years"
+  },
+  {
+    "estimate": 20.85,
+    "decade": 2000.0,
+    "stub_label": "Male: 20-24 years"
+  },
+  {
+    "estimate": 20.85,
+    "decade": 2000.0,
+    "stub_label": "Male: 25-34 years"
+  },
+  {
+    "estimate": 22.34,
+    "decade": 2000.0,
+    "stub_label": "Male: 25-44 years"
+  },
+  {
+    "estimate": 23.689999999999998,
+    "decade": 2000.0,
+    "stub_label": "Male: 35-44 years"
+  },
+  {
+    "estimate": 25.56,
+    "decade": 2000.0,
+    "stub_label": "Male: 45-54 years"
+  },
+  {
+    "estimate": 24.39,
+    "decade": 2000.0,
+    "stub_label": "Male: 45-64 years"
+  },
+  {
+    "estimate": 22.7,
+    "decade": 2000.0,
+    "stub_label": "Male: 55-64 years"
+  },
+  {
+    "estimate": 29.759999999999998,
+    "decade": 2000.0,
+    "stub_label": "Male: 65 years and over"
+  },
+  {
+    "estimate": 23.209999999999997,
+    "decade": 2000.0,
+    "stub_label": "Male: 65-74 years"
+  },
+  {
+    "estimate": 35.24,
+    "decade": 2000.0,
+    "stub_label": "Male: 75-84 years"
+  },
+  {
+    "estimate": 49.7,
+    "decade": 2000.0,
+    "stub_label": "Male: 85 years and over"
+  },
+  {
+    "estimate": 16.315,
+    "decade": 2000.0,
+    "stub_label": "Male: American Indian or Alaska Native"
+  },
+  {
+    "estimate": 27.290000000000003,
+    "decade": 2000.0,
+    "stub_label": "Male: American Indian or Alaska Native: 15-24 years"
+  },
+  {
+    "estimate": 25.42,
+    "decade": 2000.0,
+    "stub_label": "Male: American Indian or Alaska Native: 25-44 years"
+  },
+  {
+    "estimate": 14.389999999999999,
+    "decade": 2000.0,
+    "stub_label": "Male: American Indian or Alaska Native: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 2000.0,
+    "stub_label": "Male: American Indian or Alaska Native: 65 years and over"
+  },
+  {
+    "estimate": 8.005,
+    "decade": 2000.0,
+    "stub_label": "Male: Asian or Pacific Islander"
+  },
+  {
+    "estimate": 8.639999999999999,
+    "decade": 2000.0,
+    "stub_label": "Male: Asian or Pacific Islander: 15-24 years"
+  },
+  {
+    "estimate": 9.3,
+    "decade": 2000.0,
+    "stub_label": "Male: Asian or Pacific Islander: 25-44 years"
+  },
+  {
+    "estimate": 10.02,
+    "decade": 2000.0,
+    "stub_label": "Male: Asian or Pacific Islander: 45-64 years"
+  },
+  {
+    "estimate": 14.65,
+    "decade": 2000.0,
+    "stub_label": "Male: Asian or Pacific Islander: 65 years and over"
+  },
+  {
+    "estimate": 9.145000000000001,
+    "decade": 2000.0,
+    "stub_label": "Male: Black or African American"
+  },
+  {
+    "estimate": 11.71,
+    "decade": 2000.0,
+    "stub_label": "Male: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": 14.18,
+    "decade": 2000.0,
+    "stub_label": "Male: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": 9.45,
+    "decade": 2000.0,
+    "stub_label": "Male: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": 10.46,
+    "decade": 2000.0,
+    "stub_label": "Male: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": 9.16,
+    "decade": 2000.0,
+    "stub_label": "Male: Black or African American: 65-74 years"
+  },
+  {
+    "estimate": 12.520000000000001,
+    "decade": 2000.0,
+    "stub_label": "Male: Black or African American: 75-84 years"
+  },
+  {
+    "estimate": null,
+    "decade": 2000.0,
+    "stub_label": "Male: Black or African American: 85 years and over"
+  },
+  {
+    "estimate": 9.120000000000001,
+    "decade": 2000.0,
+    "stub_label": "Male: Hispanic or Latino: All races"
+  },
+  {
+    "estimate": 10.6,
+    "decade": 2000.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 15-24 years"
+  },
+  {
+    "estimate": 11.59,
+    "decade": 2000.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 25-44 years"
+  },
+  {
+    "estimate": 11.8,
+    "decade": 2000.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 45-64 years"
+  },
+  {
+    "estimate": 16.51,
+    "decade": 2000.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 65 years and over"
+  },
+  {
+    "estimate": 22.654999999999998,
+    "decade": 2000.0,
+    "stub_label": "Male: Not Hispanic or Latino: American Indian or Alaska Native"
+  },
+  {
+    "estimate": 39.26,
+    "decade": 2000.0,
+    "stub_label": "Male: Not Hispanic or Latino: American Indian or Alaska Native: 15-24 years"
+  },
+  {
+    "estimate": 37.49,
+    "decade": 2000.0,
+    "stub_label": "Male: Not Hispanic or Latino: American Indian or Alaska Native: 25-44 years"
+  },
+  {
+    "estimate": 17.759999999999998,
+    "decade": 2000.0,
+    "stub_label": "Male: Not Hispanic or Latino: American Indian or Alaska Native: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 2000.0,
+    "stub_label": "Male: Not Hispanic or Latino: American Indian or Alaska Native: 65 years and over"
+  },
+  {
+    "estimate": 8.115,
+    "decade": 2000.0,
+    "stub_label": "Male: Not Hispanic or Latino: Asian or Pacific Islander"
+  },
+  {
+    "estimate": 8.81,
+    "decade": 2000.0,
+    "stub_label": "Male: Not Hispanic or Latino: Asian or Pacific Islander: 15-24 years"
+  },
+  {
+    "estimate": 9.42,
+    "decade": 2000.0,
+    "stub_label": "Male: Not Hispanic or Latino: Asian or Pacific Islander: 25-44 years"
+  },
+  {
+    "estimate": 10.110000000000001,
+    "decade": 2000.0,
+    "stub_label": "Male: Not Hispanic or Latino: Asian or Pacific Islander: 45-64 years"
+  },
+  {
+    "estimate": 14.6,
+    "decade": 2000.0,
+    "stub_label": "Male: Not Hispanic or Latino: Asian or Pacific Islander: 65 years and over"
+  },
+  {
+    "estimate": 9.385,
+    "decade": 2000.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American"
+  },
+  {
+    "estimate": 12.120000000000001,
+    "decade": 2000.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": 14.7,
+    "decade": 2000.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": 9.55,
+    "decade": 2000.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": 10.520000000000001,
+    "decade": 2000.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": 22.02,
+    "decade": 2000.0,
+    "stub_label": "Male: Not Hispanic or Latino: White"
+  },
+  {
+    "estimate": 19.09,
+    "decade": 2000.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 15-24 years"
+  },
+  {
+    "estimate": 27.45,
+    "decade": 2000.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 25-44 years"
+  },
+  {
+    "estimate": 28.64,
+    "decade": 2000.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 45-64 years"
+  },
+  {
+    "estimate": 32.989999999999995,
+    "decade": 2000.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 65 years and over"
+  },
+  {
+    "estimate": 20.125,
+    "decade": 2000.0,
+    "stub_label": "Male: White"
+  },
+  {
+    "estimate": 17.42,
+    "decade": 2000.0,
+    "stub_label": "Male: White: 15-24 years"
+  },
+  {
+    "estimate": 24.48,
+    "decade": 2000.0,
+    "stub_label": "Male: White: 25-44 years"
+  },
+  {
+    "estimate": 27.13,
+    "decade": 2000.0,
+    "stub_label": "Male: White: 45-64 years"
+  },
+  {
+    "estimate": 32.11,
+    "decade": 2000.0,
+    "stub_label": "Male: White: 65 years and over"
+  },
+  {
+    "estimate": 25.18,
+    "decade": 2000.0,
+    "stub_label": "Male: White: 65-74 years"
+  },
+  {
+    "estimate": 37.66,
+    "decade": 2000.0,
+    "stub_label": "Male: White: 75-84 years"
+  },
+  {
+    "estimate": 53.04,
+    "decade": 2000.0,
+    "stub_label": "Male: White: 85 years and over"
+  },
+  {
+    "estimate": 1.9666666666666668,
+    "decade": 2010.0,
+    "stub_label": "10-14 years"
+  },
+  {
+    "estimate": 9.344444444444445,
+    "decade": 2010.0,
+    "stub_label": "15-19 years"
+  },
+  {
+    "estimate": 12.222222222222221,
+    "decade": 2010.0,
+    "stub_label": "15-24 years"
+  },
+  {
+    "estimate": 14.933333333333334,
+    "decade": 2010.0,
+    "stub_label": "20-24 years"
+  },
+  {
+    "estimate": 15.61111111111111,
+    "decade": 2010.0,
+    "stub_label": "25-34 years"
+  },
+  {
+    "estimate": 16.255555555555556,
+    "decade": 2010.0,
+    "stub_label": "25-44 years"
+  },
+  {
+    "estimate": 16.92222222222222,
+    "decade": 2010.0,
+    "stub_label": "35-44 years"
+  },
+  {
+    "estimate": 19.944444444444443,
+    "decade": 2010.0,
+    "stub_label": "45-54 years"
+  },
+  {
+    "estimate": 19.255555555555556,
+    "decade": 2010.0,
+    "stub_label": "45-64 years"
+  },
+  {
+    "estimate": 18.477777777777778,
+    "decade": 2010.0,
+    "stub_label": "55-64 years"
+  },
+  {
+    "estimate": 16.211111111111112,
+    "decade": 2010.0,
+    "stub_label": "65 years and over"
+  },
+  {
+    "estimate": 14.988888888888889,
+    "decade": 2010.0,
+    "stub_label": "65-74 years"
+  },
+  {
+    "estimate": 17.377777777777776,
+    "decade": 2010.0,
+    "stub_label": "75-84 years"
+  },
+  {
+    "estimate": 18.644444444444446,
+    "decade": 2010.0,
+    "stub_label": "85 years and over"
+  },
+  {
+    "estimate": 13.272222222222224,
+    "decade": 2010.0,
+    "stub_label": "All persons"
+  },
+  {
+    "estimate": 5.783333333333333,
+    "decade": 2010.0,
+    "stub_label": "Female"
+  },
+  {
+    "estimate": 1.377777777777778,
+    "decade": 2010.0,
+    "stub_label": "Female: 10-14 years"
+  },
+  {
+    "estimate": 4.366666666666667,
+    "decade": 2010.0,
+    "stub_label": "Female: 15-19 years"
+  },
+  {
+    "estimate": 4.866666666666667,
+    "decade": 2010.0,
+    "stub_label": "Female: 15-24 years"
+  },
+  {
+    "estimate": 5.355555555555555,
+    "decade": 2010.0,
+    "stub_label": "Female: 20-24 years"
+  },
+  {
+    "estimate": 6.388888888888889,
+    "decade": 2010.0,
+    "stub_label": "Female: 25-34 years"
+  },
+  {
+    "estimate": 7.2,
+    "decade": 2010.0,
+    "stub_label": "Female: 25-44 years"
+  },
+  {
+    "estimate": 8.044444444444444,
+    "decade": 2010.0,
+    "stub_label": "Female: 35-44 years"
+  },
+  {
+    "estimate": 10.144444444444444,
+    "decade": 2010.0,
+    "stub_label": "Female: 45-54 years"
+  },
+  {
+    "estimate": 9.477777777777778,
+    "decade": 2010.0,
+    "stub_label": "Female: 45-64 years"
+  },
+  {
+    "estimate": 8.744444444444444,
+    "decade": 2010.0,
+    "stub_label": "Female: 55-64 years"
+  },
+  {
+    "estimate": 4.844444444444445,
+    "decade": 2010.0,
+    "stub_label": "Female: 65 years and over"
+  },
+  {
+    "estimate": 5.644444444444445,
+    "decade": 2010.0,
+    "stub_label": "Female: 65-74 years"
+  },
+  {
+    "estimate": 4.133333333333333,
+    "decade": 2010.0,
+    "stub_label": "Female: 75-84 years"
+  },
+  {
+    "estimate": 3.5,
+    "decade": 2010.0,
+    "stub_label": "Female: 85 years and over"
+  },
+  {
+    "estimate": 5.975,
+    "decade": 2010.0,
+    "stub_label": "Female: American Indian or Alaska Native"
+  },
+  {
+    "estimate": 10.3,
+    "decade": 2010.0,
+    "stub_label": "Female: American Indian or Alaska Native: 15-24 years"
+  },
+  {
+    "estimate": 9.31,
+    "decade": 2010.0,
+    "stub_label": "Female: American Indian or Alaska Native: 25-44 years"
+  },
+  {
+    "estimate": 5.800000000000001,
+    "decade": 2010.0,
+    "stub_label": "Female: American Indian or Alaska Native: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 2010.0,
+    "stub_label": "Female: American Indian or Alaska Native: 65 years and over"
+  },
+  {
+    "estimate": 3.611111111111111,
+    "decade": 2010.0,
+    "stub_label": "Female: Asian or Pacific Islander"
+  },
+  {
+    "estimate": 4.9,
+    "decade": 2010.0,
+    "stub_label": "Female: Asian or Pacific Islander: 15-24 years"
+  },
+  {
+    "estimate": 4.066666666666666,
+    "decade": 2010.0,
+    "stub_label": "Female: Asian or Pacific Islander: 25-44 years"
+  },
+  {
+    "estimate": 4.488888888888889,
+    "decade": 2010.0,
+    "stub_label": "Female: Asian or Pacific Islander: 45-64 years"
+  },
+  {
+    "estimate": 4.655555555555556,
+    "decade": 2010.0,
+    "stub_label": "Female: Asian or Pacific Islander: 65 years and over"
+  },
+  {
+    "estimate": 2.7095238095238092,
+    "decade": 2010.0,
+    "stub_label": "Female: Black or African American"
+  },
+  {
+    "estimate": 3.26,
+    "decade": 2010.0,
+    "stub_label": "Female: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": 3.39,
+    "decade": 2010.0,
+    "stub_label": "Female: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": 3.0166666666666666,
+    "decade": 2010.0,
+    "stub_label": "Female: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": 1.2428571428571429,
+    "decade": 2010.0,
+    "stub_label": "Female: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": 2.42,
+    "decade": 2010.0,
+    "stub_label": "Female: Hispanic or Latino: All races"
+  },
+  {
+    "estimate": 3.57,
+    "decade": 2010.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 15-24 years"
+  },
+  {
+    "estimate": 3.25,
+    "decade": 2010.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 25-44 years"
+  },
+  {
+    "estimate": 3.21,
+    "decade": 2010.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 45-64 years"
+  },
+  {
+    "estimate": 1.78,
+    "decade": 2010.0,
+    "stub_label": "Female: Hispanic or Latino: All races: 65 years and over"
+  },
+  {
+    "estimate": 9.33,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: American Indian or Alaska Native"
+  },
+  {
+    "estimate": 16.8,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: American Indian or Alaska Native: 15-24 years"
+  },
+  {
+    "estimate": 14.979999999999999,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: American Indian or Alaska Native: 25-44 years"
+  },
+  {
+    "estimate": 7.974999999999999,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: American Indian or Alaska Native: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: American Indian or Alaska Native: 65 years and over"
+  },
+  {
+    "estimate": 3.9,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: Asian"
+  },
+  {
+    "estimate": 3.6833333333333336,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: Asian or Pacific Islander"
+  },
+  {
+    "estimate": 4.966666666666667,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: Asian or Pacific Islander: 15-24 years"
+  },
+  {
+    "estimate": 4.155555555555556,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: Asian or Pacific Islander: 25-44 years"
+  },
+  {
+    "estimate": 4.5777777777777775,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: Asian or Pacific Islander: 45-64 years"
+  },
+  {
+    "estimate": 4.722222222222222,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: Asian or Pacific Islander: 65 years and over"
+  },
+  {
+    "estimate": 6.900000000000001,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: Asian: 15-24 years"
+  },
+  {
+    "estimate": 4.2,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: Asian: 25-44 years"
+  },
+  {
+    "estimate": 4.8,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: Asian: 45-64 years"
+  },
+  {
+    "estimate": 3.6,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: Asian: 65 years and over"
+  },
+  {
+    "estimate": 2.315,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American"
+  },
+  {
+    "estimate": 3.3400000000000003,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": 3.55,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": 2.5700000000000003,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": 1.2428571428571429,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": null,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander"
+  },
+  {
+    "estimate": null,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander: 15-24 years"
+  },
+  {
+    "estimate": null,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander: 65 years and over"
+  },
+  {
+    "estimate": 7.585,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: White"
+  },
+  {
+    "estimate": 5.7,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 15-24 years"
+  },
+  {
+    "estimate": 9.770000000000001,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 25-44 years"
+  },
+  {
+    "estimate": 12.28,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 45-64 years"
+  },
+  {
+    "estimate": 5.7,
+    "decade": 2010.0,
+    "stub_label": "Female: Not Hispanic or Latino: White: 65 years and over"
+  },
+  {
+    "estimate": 6.645,
+    "decade": 2010.0,
+    "stub_label": "Female: White"
+  },
+  {
+    "estimate": 5.22,
+    "decade": 2010.0,
+    "stub_label": "Female: White: 15-24 years"
+  },
+  {
+    "estimate": 8.360000000000001,
+    "decade": 2010.0,
+    "stub_label": "Female: White: 25-44 years"
+  },
+  {
+    "estimate": 11.09,
+    "decade": 2010.0,
+    "stub_label": "Female: White: 45-64 years"
+  },
+  {
+    "estimate": 5.38,
+    "decade": 2010.0,
+    "stub_label": "Female: White: 65 years and over"
+  },
+  {
+    "estimate": 21.16111111111111,
+    "decade": 2010.0,
+    "stub_label": "Male"
+  },
+  {
+    "estimate": 2.5,
+    "decade": 2010.0,
+    "stub_label": "Male: 10-14 years"
+  },
+  {
+    "estimate": 14.07777777777778,
+    "decade": 2010.0,
+    "stub_label": "Male: 15-19 years"
+  },
+  {
+    "estimate": 19.18888888888889,
+    "decade": 2010.0,
+    "stub_label": "Male: 15-24 years"
+  },
+  {
+    "estimate": 24.055555555555557,
+    "decade": 2010.0,
+    "stub_label": "Male: 20-24 years"
+  },
+  {
+    "estimate": 24.65555555555556,
+    "decade": 2010.0,
+    "stub_label": "Male: 25-34 years"
+  },
+  {
+    "estimate": 25.244444444444444,
+    "decade": 2010.0,
+    "stub_label": "Male: 25-44 years"
+  },
+  {
+    "estimate": 25.866666666666667,
+    "decade": 2010.0,
+    "stub_label": "Male: 35-44 years"
+  },
+  {
+    "estimate": 30.03333333333333,
+    "decade": 2010.0,
+    "stub_label": "Male: 45-54 years"
+  },
+  {
+    "estimate": 29.555555555555557,
+    "decade": 2010.0,
+    "stub_label": "Male: 45-64 years"
+  },
+  {
+    "estimate": 28.944444444444443,
+    "decade": 2010.0,
+    "stub_label": "Male: 55-64 years"
+  },
+  {
+    "estimate": 30.677777777777777,
+    "decade": 2010.0,
+    "stub_label": "Male: 65 years and over"
+  },
+  {
+    "estimate": 25.677777777777777,
+    "decade": 2010.0,
+    "stub_label": "Male: 65-74 years"
+  },
+  {
+    "estimate": 34.922222222222224,
+    "decade": 2010.0,
+    "stub_label": "Male: 75-84 years"
+  },
+  {
+    "estimate": 47.855555555555554,
+    "decade": 2010.0,
+    "stub_label": "Male: 85 years and over"
+  },
+  {
+    "estimate": 18.529999999999998,
+    "decade": 2010.0,
+    "stub_label": "Male: American Indian or Alaska Native"
+  },
+  {
+    "estimate": 30.88,
+    "decade": 2010.0,
+    "stub_label": "Male: American Indian or Alaska Native: 15-24 years"
+  },
+  {
+    "estimate": 28.32,
+    "decade": 2010.0,
+    "stub_label": "Male: American Indian or Alaska Native: 25-44 years"
+  },
+  {
+    "estimate": 18.1875,
+    "decade": 2010.0,
+    "stub_label": "Male: American Indian or Alaska Native: 45-64 years"
+  },
+  {
+    "estimate": 12.65,
+    "decade": 2010.0,
+    "stub_label": "Male: American Indian or Alaska Native: 65 years and over"
+  },
+  {
+    "estimate": 9.466666666666667,
+    "decade": 2010.0,
+    "stub_label": "Male: Asian or Pacific Islander"
+  },
+  {
+    "estimate": 13.21111111111111,
+    "decade": 2010.0,
+    "stub_label": "Male: Asian or Pacific Islander: 15-24 years"
+  },
+  {
+    "estimate": 11.044444444444444,
+    "decade": 2010.0,
+    "stub_label": "Male: Asian or Pacific Islander: 25-44 years"
+  },
+  {
+    "estimate": 11.677777777777779,
+    "decade": 2010.0,
+    "stub_label": "Male: Asian or Pacific Islander: 45-64 years"
+  },
+  {
+    "estimate": 12.677777777777779,
+    "decade": 2010.0,
+    "stub_label": "Male: Asian or Pacific Islander: 65 years and over"
+  },
+  {
+    "estimate": 9.905263157894737,
+    "decade": 2010.0,
+    "stub_label": "Male: Black or African American"
+  },
+  {
+    "estimate": 13.45,
+    "decade": 2010.0,
+    "stub_label": "Male: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": 15.92,
+    "decade": 2010.0,
+    "stub_label": "Male: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": 11.341666666666667,
+    "decade": 2010.0,
+    "stub_label": "Male: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": 9.154545454545456,
+    "decade": 2010.0,
+    "stub_label": "Male: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": 7.989999999999999,
+    "decade": 2010.0,
+    "stub_label": "Male: Black or African American: 65-74 years"
+  },
+  {
+    "estimate": 10.31,
+    "decade": 2010.0,
+    "stub_label": "Male: Black or African American: 75-84 years"
+  },
+  {
+    "estimate": null,
+    "decade": 2010.0,
+    "stub_label": "Male: Black or African American: 85 years and over"
+  },
+  {
+    "estimate": 10.014999999999999,
+    "decade": 2010.0,
+    "stub_label": "Male: Hispanic or Latino: All races"
+  },
+  {
+    "estimate": 12.889999999999999,
+    "decade": 2010.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 15-24 years"
+  },
+  {
+    "estimate": 13.16,
+    "decade": 2010.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 25-44 years"
+  },
+  {
+    "estimate": 12.5,
+    "decade": 2010.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 45-64 years"
+  },
+  {
+    "estimate": 14.45,
+    "decade": 2010.0,
+    "stub_label": "Male: Hispanic or Latino: All races: 65 years and over"
+  },
+  {
+    "estimate": 30.045,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: American Indian or Alaska Native"
+  },
+  {
+    "estimate": 50.59,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: American Indian or Alaska Native: 15-24 years"
+  },
+  {
+    "estimate": 49.75,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: American Indian or Alaska Native: 25-44 years"
+  },
+  {
+    "estimate": 26.45,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: American Indian or Alaska Native: 45-64 years"
+  },
+  {
+    "estimate": 16.7,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: American Indian or Alaska Native: 65 years and over"
+  },
+  {
+    "estimate": 10.15,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: Asian"
+  },
+  {
+    "estimate": 9.616666666666665,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: Asian or Pacific Islander"
+  },
+  {
+    "estimate": 13.377777777777778,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: Asian or Pacific Islander: 15-24 years"
+  },
+  {
+    "estimate": 11.222222222222221,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: Asian or Pacific Islander: 25-44 years"
+  },
+  {
+    "estimate": 11.766666666666666,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: Asian or Pacific Islander: 45-64 years"
+  },
+  {
+    "estimate": 12.81111111111111,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: Asian or Pacific Islander: 65 years and over"
+  },
+  {
+    "estimate": 15.5,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: Asian: 15-24 years"
+  },
+  {
+    "estimate": 10.5,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: Asian: 25-44 years"
+  },
+  {
+    "estimate": 12.300000000000002,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: Asian: 45-64 years"
+  },
+  {
+    "estimate": 13.699999999999998,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: Asian: 65 years and over"
+  },
+  {
+    "estimate": 10.395000000000001,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American"
+  },
+  {
+    "estimate": 13.96,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 15-24 years"
+  },
+  {
+    "estimate": 16.64,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 25-44 years"
+  },
+  {
+    "estimate": 10.31,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 45-64 years"
+  },
+  {
+    "estimate": 8.94,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: Black or African American: 65 years and over"
+  },
+  {
+    "estimate": 20.25,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander"
+  },
+  {
+    "estimate": null,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander: 15-24 years"
+  },
+  {
+    "estimate": 38.1,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander: 25-44 years"
+  },
+  {
+    "estimate": null,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander: 45-64 years"
+  },
+  {
+    "estimate": null,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander: 65 years and over"
+  },
+  {
+    "estimate": 27.235,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: White"
+  },
+  {
+    "estimate": 23.67,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 15-24 years"
+  },
+  {
+    "estimate": 33.03,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 25-44 years"
+  },
+  {
+    "estimate": 37.12,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 45-64 years"
+  },
+  {
+    "estimate": 35.65,
+    "decade": 2010.0,
+    "stub_label": "Male: Not Hispanic or Latino: White: 65 years and over"
+  },
+  {
+    "estimate": 24.1,
+    "decade": 2010.0,
+    "stub_label": "Male: White"
+  },
+  {
+    "estimate": 21.139999999999997,
+    "decade": 2010.0,
+    "stub_label": "Male: White: 15-24 years"
+  },
+  {
+    "estimate": 28.529999999999998,
+    "decade": 2010.0,
+    "stub_label": "Male: White: 25-44 years"
+  },
+  {
+    "estimate": 33.9,
+    "decade": 2010.0,
+    "stub_label": "Male: White: 45-64 years"
+  },
+  {
+    "estimate": 34.09,
+    "decade": 2010.0,
+    "stub_label": "Male: White: 65 years and over"
+  },
+  {
+    "estimate": 28.73,
+    "decade": 2010.0,
+    "stub_label": "Male: White: 65-74 years"
+  },
+  {
+    "estimate": 38.55,
+    "decade": 2010.0,
+    "stub_label": "Male: White: 75-84 years"
+  },
+  {
+    "estimate": 51.97,
+    "decade": 2010.0,
+    "stub_label": "Male: White: 85 years and over"
+  }
+]
